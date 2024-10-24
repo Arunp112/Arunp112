@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **JavaScript and Reactjs🥂**
 
-- 📫 How to reach me **cseabhishek8094@gmail.com**
+- 📫 How to reach me **arunpal9@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 </div>
